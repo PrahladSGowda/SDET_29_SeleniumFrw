@@ -16,6 +16,11 @@ public class OrganizationTest {
 	@Test(groups = "regressionTest")
 	public void modifyOrgTest() {
 		System.out.println("execute modifyOrgTest");
+		
+	}
+	@Test(groups = "regressionTest")
+	public void DeleteOrgTest() {
+		System.out.println("execute DeleteOrgTest");
 	}
 
 }
